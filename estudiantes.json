@@ -1,0 +1,100 @@
+{"_id":0,"name":"Alejandro Rodriguez","score":11.46,"classroom":"A1","school":"TI", "subject":"INGLES"}
+{"_id":1,"name":"Alejandro Rodriguez","score":35.87,"classroom":"A1","school":"TI", "subject":"MATEMATICAS"}
+{"_id":2,"name":"Alejandro Rodriguez","score":1.46,"classroom":"A1","school":"TI", "subject":"BDD"}
+{"_id":3,"name":"Alejandro Rodriguez","score":11.787,"classroom":"A1","school":"TI", "subject":"PROGRAMACION"}
+{"_id":4,"name":"Alejandro Rodriguez","score":38.787,"classroom":"A1","school":"TI", "subject":"FISICA"}
+{"_id":5,"name":"Aurelia Menendez","score":7.78,"classroom":"A1","school":"TI", "subject":"MATEMATICAS"}
+{"_id":6,"name":"Aurelia Menendez","score":35.87,"classroom":"A1","school":"TI", "subject":"BDD"}
+{"_id":7,"name":"Aurelia Menendez","score":7.46,"classroom":"A1","school":"TI", "subject":"PROGRAMACION"}
+{"_id":8,"name":"Aurelia Menendez","score":35.87,"classroom":"A1","school":"TI", "subject":"INGLES"}
+{"_id":9,"name":"Aurelia Menendez","score":11.787,"classroom":"A1","school":"TI", "subject":"FISICA"}
+{"_id":10,"name":"Corliss Zuk","score":9.78,"classroom":"A1","school":"TI", "subject":"MATEMATICAS"}
+{"_id":11,"name":"Corliss Zuk","score":35.87,"classroom":"A1","school":"TI", "subject":"BDD"}
+{"_id":12,"name":"Corliss Zuk","score":1.46,"classroom":"A1","school":"TI", "subject":"PROGRAMACION"}
+{"_id":13,"name":"Corliss Zuk","score":35.87,"classroom":"A1","school":"TI", "subject":"INGLES"}
+{"_id":14,"name":"Corliss Zuk","score":11.787,"classroom":"A1","school":"TI", "subject":"FISICA"}
+{"_id":15,"name":"Bao Ziglar","score":11.78,"classroom":"A1","school":"TI", "subject":"MATEMATICAS"}
+{"_id":16,"name":"Bao Ziglar","score":35.87,"classroom":"A1","school":"TI", "subject":"BDD"}
+{"_id":17,"name":"Bao Ziglar","score":30.46,"classroom":"A1","school":"TI", "subject":"PROGRAMACION"}
+{"_id":18,"name":"Bao Ziglar","score":35.87,"classroom":"A1","school":"TI", "subject":"INGLES"}
+{"_id":19,"name":"Bao Ziglar","score":11.787,"classroom":"A1","school":"TI", "subject":"FISICA"}
+{"_id":20,"name":"Bao Ziglar","score":11.78,"classroom":"A1","school":"TI", "subject":"MATEMATICAS"}
+{"_id":21,"name":"Bao Ziglar","score":35.87,"classroom":"A1","school":"TI", "subject":"BDD"}
+{"_id":22,"name":"Bao Ziglar","score":1.46,"classroom":"A1","school":"TI", "subject":"PROGRAMACION"}
+{"_id":23,"name":"Bao Ziglar","score":35.87,"classroom":"A1","school":"TI", "subject":"INGLES"}
+{"_id":24,"name":"Bao Ziglar","score":11.787,"classroom":"A1","school":"TI", "subject":"FISICA"}
+{"_id":25,"name":"Zachary Langlais","score":11.78,"classroom":"A2","school":"ENFERMERIA", "subject":"BIOLOGIA"}
+{"_id":26,"name":"Zachary Langlais","score":35.87,"classroom":"A2","school":"ENFERMERIA", "subject":"QUIMICA"}
+{"_id":27,"name":"Zachary Langlais","score":40.46,"classroom":"A2","school":"ENFERMERIA", "subject":"BIOQUIMICA"}
+{"_id":28,"name":"Zachary Langlais","score":35.87,"classroom":"A2","school":"ENFERMERIA", "subject":"ANATOMIA"}
+{"_id":29,"name":"Zachary Langlais","score":43.787,"classroom":"A2","school":"ENFERMERIA", "subject":"NUTRICION"}
+{"_id":30,"name":"Wilburn Spiess","score":11.78,"classroom":"A2","school":"ENFERMERIA", "subject":"BIOLOGIA"}
+{"_id":31,"name":"Wilburn Spiess","score":35.87,"classroom":"A2","school":"ENFERMERIA", "subject":"QUIMICA"}
+{"_id":32,"name":"Wilburn Spiess","score":40.46,"classroom":"A2","school":"ENFERMERIA", "subject":"BIOQUIMICA"}
+{"_id":33,"name":"Wilburn Spiess","score":35.87,"classroom":"A2","school":"ENFERMERIA", "subject":"ANATOMIA"}
+{"_id":34,"name":"Wilburn Spiess","score":48.787,"classroom":"A2","school":"ENFERMERIA", "subject":"NUTRICION"}
+{"_id":35,"name":"Jenette Flanders","score":22.78,"classroom":"A2","school":"ENFERMERIA", "subject":"BIOLOGIA"}
+{"_id":36,"name":"Jenette Flanders","score":10.87,"classroom":"A2","school":"ENFERMERIA", "subject":"QUIMICA"}
+{"_id":37,"name":"Jenette Flanders","score":28.46,"classroom":"A2","school":"ENFERMERIA", "subject":"BIOQUIMICA"}
+{"_id":38,"name":"Jenette Flanders","score":49.87,"classroom":"A2","school":"ENFERMERIA", "subject":"ANATOMIA"}
+{"_id":39,"name":"Jenette Flanders","score":22.787,"classroom":"A2","school":"ENFERMERIA", "subject":"NUTRICION"}
+{"_id":40,"name":"Salena Olmos","score":11.78,"classroom":"A2","school":"ENFERMERIA", "subject":"BIOLOGIA"}
+{"_id":41,"name":"Salena Olmos","score":35.87,"classroom":"A2","school":"ENFERMERIA", "subject":"QUIMICA"}
+{"_id":42,"name":"Salena Olmos","score":40.46,"classroom":"A2","school":"ENFERMERIA", "subject":"BIOQUIMICA"}
+{"_id":43,"name":"Salena Olmos","score":35.87,"classroom":"A2","school":"ENFERMERIA", "subject":"ANATOMIA"}
+{"_id":44,"name":"Salena Olmos","score":50.787,"classroom":"A2","school":"ENFERMERIA", "subject":"NUTRICION"}
+{"_id":45,"name":"Irina Bedoya","score":40.78,"classroom":"A2","school":"ENFERMERIA", "subject":"BIOLOGIA"}
+{"_id":46,"name":"Irina Bedoya","score":39.87,"classroom":"A2","school":"ENFERMERIA", "subject":"QUIMICA"}
+{"_id":47,"name":"Irina Bedoya","score":48.46,"classroom":"A2","school":"ENFERMERIA", "subject":"BIOQUIMICA"}
+{"_id":48,"name":"Irina Bedoya","score":44.87,"classroom":"A2","school":"ENFERMERIA", "subject":"ANATOMIA"}
+{"_id":49,"name":"Irina Bedoya","score":20.787,"classroom":"A2","school":"ENFERMERIA", "subject":"NUTRICION"}
+{"_id":50,"name":"Sanda Ryba","score":20.78,"classroom":"B1","school":"DISEÑO GRAFICO", "subject":"DIBUJO COMPOSITIVO"}
+{"_id":51,"name":"Sanda Ryba","score":14.87,"classroom":"B1","school":"DISEÑO GRAFICO", "subject":"GEOMETRÍA DESCRIPTIVA"}
+{"_id":52,"name":"Sanda Ryba","score":1.46,"classroom":"B1","school":"DISEÑO GRAFICO", "subject":"PRODUCCIÓN MULTIMEDIA"}
+{"_id":53,"name":"Sanda Ryba","score":33.87,"classroom":"B1","school":"DISEÑO GRAFICO", "subject":"PRODUCCIÓN GRÁFICA"}
+{"_id":54,"name":"Sanda Ryba","score":30.787,"classroom":"B1","school":"DISEÑO GRAFICO", "subject":"TALLER DE EXPRESIÓN ORAL Y ESCRITA"}
+{"_id":55,"name":"Denisha Cast","score":20.78,"classroom":"B1","school":"DISEÑO GRAFICO", "subject":"DIBUJO COMPOSITIVO"}
+{"_id":56,"name":"Denisha Cast","score":14.87,"classroom":"B1","school":"DISEÑO GRAFICO", "subject":"GEOMETRÍA DESCRIPTIVA"}
+{"_id":57,"name":"Denisha Cast","score":1.46,"classroom":"B1","school":"DISEÑO GRAFICO", "subject":"PRODUCCIÓN MULTIMEDIA"}
+{"_id":58,"name":"Denisha Cast","score":33.87,"classroom":"B1","school":"DISEÑO GRAFICO", "subject":"PRODUCCIÓN GRÁFICA"}
+{"_id":59,"name":"Denisha Cast","score":30.787,"classroom":"B1","school":"DISEÑO GRAFICO", "subject":"TALLER DE EXPRESIÓN ORAL Y ESCRITA"}
+{"_id":60,"name":"Marcus Blohm","score":20.78,"classroom":"B1","school":"DISEÑO GRAFICO", "subject":"DIBUJO COMPOSITIVO"}
+{"_id":61,"name":"Marcus Blohm","score":14.87,"classroom":"B1","school":"DISEÑO GRAFICO", "subject":"GEOMETRÍA DESCRIPTIVA"}
+{"_id":62,"name":"Marcus Blohm","score":1.46,"classroom":"B1","school":"DISEÑO GRAFICO", "subject":"PRODUCCIÓN MULTIMEDIA"}
+{"_id":63,"name":"Marcus Blohm","score":33.87,"classroom":"B1","school":"DISEÑO GRAFICO", "subject":"PRODUCCIÓN GRÁFICA"}
+{"_id":64,"name":"Marcus Blohm","score":30.787,"classroom":"B1","school":"DISEÑO GRAFICO", "subject":"TALLER DE EXPRESIÓN ORAL Y ESCRITA"}
+{"_id":65,"name":"Quincy Danaher","score":20.78,"classroom":"B1","school":"DISEÑO GRAFICO", "subject":"DIBUJO COMPOSITIVO"}
+{"_id":66,"name":"Quincy Danaher","score":14.87,"classroom":"B1","school":"DISEÑO GRAFICO", "subject":"GEOMETRÍA DESCRIPTIVA"}
+{"_id":67,"name":"Quincy Danaher","score":1.46,"classroom":"B1","school":"DISEÑO GRAFICO", "subject":"PRODUCCIÓN MULTIMEDIA"}
+{"_id":68,"name":"Quincy Danaher","score":33.87,"classroom":"B1","school":"DISEÑO GRAFICO", "subject":"PRODUCCIÓN GRÁFICA"}
+{"_id":69,"name":"Quincy Danaher","score":30.787,"classroom":"B1","school":"DISEÑO GRAFICO", "subject":"TALLER DE EXPRESIÓN ORAL Y ESCRITA"}
+{"_id":70,"name":"Jessika Dagenais","score":20.78,"classroom":"B1","school":"DISEÑO GRAFICO", "subject":"DIBUJO COMPOSITIVO"}
+{"_id":71,"name":"Jessika Dagenais","score":14.87,"classroom":"B1","school":"DISEÑO GRAFICO", "subject":"GEOMETRÍA DESCRIPTIVA"}
+{"_id":72,"name":"Jessika Dagenais","score":1.46,"classroom":"B1","school":"DISEÑO GRAFICO", "subject":"PRODUCCIÓN MULTIMEDIA"}
+{"_id":73,"name":"Jessika Dagenais","score":33.87,"classroom":"B1","school":"DISEÑO GRAFICO", "subject":"PRODUCCIÓN GRÁFICA"}
+{"_id":74,"name":"Jessika Dagenais","score":30.787,"classroom":"B1","school":"DISEÑO GRAFICO", "subject":"TALLER DE EXPRESIÓN ORAL Y ESCRITA"}
+{"_id":75,"name":"Alejandro Rodriguez","score":50.00,"classroom":"B1","school":"TI", "subject":"DIBUJO COMPOSITIVO"}
+{"_id":76,"name":"Alejandro Rodriguez","score":44.30,"classroom":"A2","school":"TI", "subject":"BIOQUIMICA"}
+{"_id":77,"name":"Alejandro Rodriguez","score":50.00,"classroom":"B1","school":"TI", "subject":"PRODUCCIÓN GRÁFICA"}
+{"_id":97,"name":"Alejandro Rodriguez","score":10.30,"classroom":"A2","school":"TI", "subject":"NUTRICION"}
+{"_id":78,"name":"Bao Ziglar","score":10.30,"classroom":"A2","school":"TI", "subject":"NUTRICION"}
+{"_id":79,"name":"Bao Ziglar","score":33.00,"classroom":"B1","school":"TI", "subject":"TALLER DE EXPRESIÓN ORAL Y ESCRITA"}
+{"_id":80,"name":"Bao Ziglar","score":44.30,"classroom":"A2","school":"TI", "subject":"ANATOMIA"}
+{"_id":98,"name":"Bao Ziglar","score":10.00,"classroom":"B1","school":"TI", "subject":"PRODUCCIÓN GRÁFICA"}
+{"_id":81,"name":"Corliss Zuk","score":50.00,"classroom":"B1","school":"TI", "subject":"DIBUJO COMPOSITIVO"}
+{"_id":82,"name":"Corliss Zuk","score":45.30,"classroom":"A2","school":"TI", "subject":"BIOQUIMICA"}
+{"_id":83,"name":"Corliss Zuk","score":24.30,"classroom":"A2","school":"TI", "subject":"ANATOMIA"}
+{"_id":99,"name":"Corliss Zuk","score":20.00,"classroom":"B1","school":"TI", "subject":"PRODUCCIÓN GRÁFICA"}
+{"_id":84,"name":"Aurelia Menendez","score":50.00,"classroom":"B1","school":"TI", "subject":"PRODUCCIÓN GRÁFICA"}
+{"_id":85,"name":"Aurelia Menendez","score":33.30,"classroom":"A2","school":"TI", "subject":"NUTRICION"}
+{"_id":86,"name":"Aurelia Menendez","score":50.00,"classroom":"B1","school":"TI", "subject":"TALLER DE EXPRESIÓN ORAL Y ESCRITA"}
+{"_id":87,"name":"Jessika Dagenais","score":40.78,"classroom":"A1","school":"DISEÑO GRAFICO", "subject":"MATEMATICAS"}
+{"_id":88,"name":"Jessika Dagenais","score":20.78,"classroom":"A2","school":"DISEÑO GRAFICO", "subject":"ANATOMIA"}
+{"_id":89,"name":"Jessika Dagenais","score":20.78,"classroom":"A1","school":"DISEÑO GRAFICO", "subject":"FISICA"}
+{"_id":90,"name":"Quincy Danaher","score":49.78,"classroom":"A1","school":"DISEÑO GRAFICO", "subject":"MATEMATICAS"}
+{"_id":91,"name":"Quincy Danaher","score":50.00,"classroom":"A2","school":"DISEÑO GRAFICO", "subject":"ANATOMIA"}
+{"_id":92,"name":"Quincy Danaher","score":1.78,"classroom":"A1","school":"DISEÑO GRAFICO", "subject":"FISICA"}
+{"_id":93,"name":"Irina Bedoya","score":49.78,"classroom":"A1","school":"ENFERMERIA", "subject":"MATEMATICAS"}
+{"_id":94,"name":"Irina Bedoya","score":50.00,"classroom":"B1","school":"ENFERMERIA", "subject":"PRODUCCIÓN GRÁFICA"}
+{"_id":95,"name":"Irina Bedoya","score":50.00,"classroom":"A1","school":"ENFERMERIA", "subject":"FISICA"}
+{"_id":96,"name":"Irina Bedoya","score":50.00,"classroom":"A1","school":"ENFERMERIA", "subject":"INGLES"}
